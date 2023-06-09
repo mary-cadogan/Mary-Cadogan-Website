@@ -1,10 +1,10 @@
 ---
-title: "Mary Cadogan"
+title: ""
 about: 
   template: jolla
   image: headshot.jpeg
   image-shape: round
-  image-width: 10em
+  image-width: 20em
   links: 
     - text: LinkedIn
       href: https://www.linkedin.com/in/mary-cadogan-a808a9196/
@@ -14,18 +14,17 @@ about:
       href: mailto::marycadogan@ucsb.edu
 ---
 
-**Welcome to my page!**
+# **Welcome to my page!**
 
-My name is Mary Cadogan and I am about to graduate from the University of California, Santa Barbara with a B.A. in Environmental Studies! My educational passions include ecological restoration, wildlife conservation, and renewable energy implementation. When I am not doing school, I love spending my time outdoors with friends going hiking, backpacking, and snowboarding!
+My name is Mary Cadogan and I am about to graduate from the University of California, Santa Barbara with a B.A. in Environmental Studies. My educational passions include ecological restoration, wildlife conservation, and renewable energy implementation. When I am not doing school, I love spending my time outdoors with friends going hiking, backpacking, and snowboarding!
 
-\
-[**Education**]{.underline}
+### [**Education**]{.underline}
 
-**BA in Environmental Studies** **(2023)** \| University of California, Santa Barbara
+**BA in Environmental Studies (2023)** \| University of California, Santa Barbara
 
 **Patagonia Ecosystems (2023)**\| Wildland Studies \| Chile
 
-[**Experience**]{.underline}
+### [**Experience**]{.underline}
 
 **Ecological Restoration Assistant** **(2020-2022)**
 

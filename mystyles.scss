@@ -1,0 +1,32 @@
+/*-- scss:defaults --*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+$my-font-size: 25px; 
+$my-width: 500px;
+
+// Colors
+$darkolivegreen: #556B2F;
+$light-sage-green: #D1D9CE;
+$cream: #FDFBF7;
+$burlywood4: #8B7355;
+$gray37: #5E5E5E;
+$floralwhite: #FFFAF0;
+
+
+// Base document colors
+$navbar-bg: $darkolivegreen; // navbar
+$navbar-fg: $light-sage-green; // navbar foreground elements
+$navbar-hl:$burlywood4; // highlight color when hovering over navbar links
+
+$body-bg: $light-sage-green; // page background 
+$body-color: $darkolivegreen; // page text 
+$footer-bg: $darkolivegreen; // footer 
+$link-color: $burlywood4; // hyperlinks 
+
+// Inline code
+$code-bg: $floralwhite; // inline code background color
+$code-color: $gray37; // inline code text color
+
+// Code blocks
+$code-block-bg: $cream; // code block background color
+
+/*-- scss:rules --*/

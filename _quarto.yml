@@ -9,17 +9,25 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
       - GISproject.qmd
-      - Naturewriting.qmd
-      - Outside-school.qmd
+      - abroad.qmd
+      - Research-presentation.qmd
+    right: 
+     - icon: github
+       href: https://github.com/mary-cadogan
+     - icon: linkedin
+       href: https://www.linkedin.com/in/mary-cadogan-a808a9196/
+  page-footer: 
+    background: light
+    left: 
+      - "Copyright 2023, Mary Cadogan"
 
 format:
   html:
     theme: 
-      light: morph
-      dark: slate
-    css: styles.css
+      - mystyles.scss
+    mainfont: Roboto Condensed
+    toc: true
     page-layout: full
 
 editor: visual
