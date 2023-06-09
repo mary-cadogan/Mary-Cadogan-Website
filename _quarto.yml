@@ -5,16 +5,22 @@ project:
 website:
   title: "Mary Cadogan"
   navbar:
+    background: primary
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - GISproject.qmd
+      - Naturewriting.qmd
+      - Outside-school.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: morph
+      dark: slate
     css: styles.css
-    toc: true
+    page-layout: full
 
 editor: visual
 

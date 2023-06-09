@@ -1,3 +1,44 @@
 ---
-title: "Mary-Cadogan-Website"
+title: "Mary Cadogan"
+about: 
+  template: jolla
+  image: headshot.jpeg
+  image-shape: round
+  image-width: 10em
+  links: 
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/mary-cadogan-a808a9196/
+    - text: GitHub
+      href: https://github.com/mary-cadogan
+    - text: Email
+      href: mailto::marycadogan@ucsb.edu
 ---
+
+**Welcome to my page!**
+
+My name is Mary Cadogan and I am about to graduate from the University of California, Santa Barbara with a B.A. in Environmental Studies! My educational passions include ecological restoration, wildlife conservation, and renewable energy implementation. When I am not doing school, I love spending my time outdoors with friends going hiking, backpacking, and snowboarding!
+
+\
+[**Education**]{.underline}
+
+**BA in Environmental Studies** **(2023)** \| University of California, Santa Barbara
+
+**Patagonia Ecosystems (2023)**\| Wildland Studies \| Chile
+
+[**Experience**]{.underline}
+
+**Ecological Restoration Assistant** **(2020-2022)**
+
+Cheadle Center for Biodiversity and Ecological Restoration \| Goleta, CA
+
+**Sea Turtle Conservation Research Assistant (2022)**
+
+BIOMA Travel \| Ostional, Costa Rica
+
+**Research Fellow (2022)**
+
+Cheadle Center for Biodiversity and Ecological Restoration and California Native Plant Society \| Nipomo, CA
+
+**Research Fellow** **(2021)**
+
+Cheadle Center for Biodiversity and Ecological Restoration \| Goleta CA
