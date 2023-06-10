@@ -4,7 +4,7 @@ about:
   template: jolla
   image: headshot.jpeg
   image-shape: round
-  image-width: 20em
+  image-width: 24em
   links: 
     - text: LinkedIn
       href: https://www.linkedin.com/in/mary-cadogan-a808a9196/
@@ -16,11 +16,11 @@ about:
 
 # **Welcome to my page!**
 
-My name is Mary Cadogan and I am about to graduate from the University of California, Santa Barbara with a B.A. in Environmental Studies. My educational passions include ecological restoration, wildlife conservation, and renewable energy implementation. When I am not doing school, I love spending my time outdoors with friends going hiking, backpacking, and snowboarding!
+My name is Mary Cadogan and I am from Westford, Massachusetts. I currently attend the University of California, Santa Barbara with a B.A. in Environmental Studies. My educational passions include ecological restoration, wildlife conservation, and renewable energy implementation. When I am not doing school, I love spending my time outdoors with friends going hiking, backpacking, and snowboarding!
 
 ### [**Education**]{.underline}
 
-**BA in Environmental Studies (2023)** \| University of California, Santa Barbara
+**BA in Environmental Studies (2023)** \| University of California, Santa Barbara \| LS Honor's College
 
 **Patagonia Ecosystems (2023)**\| Wildland Studies \| Chile
 
@@ -32,7 +32,7 @@ Cheadle Center for Biodiversity and Ecological Restoration \| Goleta, CA
 
 **Sea Turtle Conservation Research Assistant (2022)**
 
-BIOMA Travel \| Ostional, Costa Rica
+Ostional Wildlife Refuge \| Ostional, Costa Rica
 
 **Research Fellow (2022)**
 

@@ -1,29 +1,31 @@
 # Research Work
 
-**Nipomo Mesa Lupine Seed Predation and Herbivory Study**
+## **Nipomo Mesa Lupine Seed Predation and Herbivory Study by Mary Cadogan (2022)**
 
-**Abstract**
+The following data was collected in 2022 and was presented to the following: California Department of Fish and Wildlife, California Native Plant Society, The Land Conservancy of San Luis Obispo County, and the Cheadle Center for Biodiversity and Ecological Restoration.
+
+### **Abstract**
 
 The 2022 Nipomo Mesa Lupine Seed Predation and Herbivory Study analyzed the impact that animals and insects have on the germination success of the Nipomo Mesa lupine. Seed and plant herbivory was monitored at two different sites in Nipomo, California to identify the species that have been predating on the lupine and also compare how different planting locations impact herbivory. The three different treatments monitored were seeds set out in caged plots, uncaged plots near vegetation, and uncaged plots far from vegetation. Seed count data was collected at the beginning of the monitoring process (January 24, 2022) and at the end (May 17th, 2022). This data indicated that caged plots had the most herbivory activity, and then uncaged near vegetation, and lastly uncaged far from vegetation. However, this data is not sufficient enough to draw conclusions because of the high likelihood that seeds were blown out of the bait boxes by wind. Motion sensor trail cameras were also set up at each one of the 8 plots and video footage was collected. Video footage indicated that uncaged sites near vegetation showed the most seed predation, with kangaroo rats and deer mice being the primary predators. Video footage from the  uncaged bait stations far from vegetation showed the most evidence of plant herbivory, mainly by cottontails and several bird species. Lastly, caged bait stations showed little herbivory activity, however birds and rodents were still seen in the cages. There was a high prevalence of insect activity in the caged plots but it is undetermined what their effect was. The camera\\'s capture rates were extremely low due to technical difficulties associated with the delay between the trigger and the start of the video and seed data was not collected frequently enough to rule out factors other than seed predation in the removal of seeds from the bait stations. Therefore, further studies should be conducted to analyze the impact of these species on the Nipomo Mesa Lupine due to the limitations of this study.
 
-**Introduction**
+### **Introduction**
 
 The Nipomo Mesa lupine (Lupinus nipomensis) is listed as an endangered plant species under the  California Endangered Species Act, as well as federally endangered under the Endangered Species Act. With the introduction of invasive grasses (Ehrharta calycina) and loss of dune habitat from human development, the Nipomo Mesa Lupine population has significantly declined and its range is now limited to only 2 square miles within the Guadalupe-Nipomo Dunes complex. This area is one of the last coastal dune ecosystems in California and home to several unique species. Therefore, it is crucial to prevent the extinction of the Nipomo Mesa Lupine to maintain the natural ecological balance of the coastal dune ecosystem that the lupines are residing in. 
 
 The Seed Predation and Herbivory Study is a project of UCSB's Cheadle Center for Biodiversity and Ecological Restoration Population Enhancement Project that seeks to re-establish the species population in the Black Lake Ecological Area and Kathleen Goddard Jones Overlook located in Nipomo, California. The Seed Predation Study seeks to answer why germination success in this area has been so low by monitoring the herbivory activity. With habitat loss, drought, invasive species, altered hydrology, and habitat fragmentation all limiting the growth of the Nipomo Mesa Lupine, it is important to understand the extent to which seed predation limits the growth of these plants. The knowledge gained through this study will help the Population Enhancement Project move forward by providing valuable information on overall seed predation interactions, comparisons across treatments for future seeding efforts, and ideas for further studies. 
 
-**Methods**
+### **Methods**
 
 This study was conducted using motion sensor cameras to track the differences in seed predation across three different seeding treatments. The three treatments being compared were placing seeds in caged plots with an open top, uncaged plots near shrub vegetation (UCNV), and uncaged plots far from shrub vegetation (UCFV). A total of 8 plots were observed: 4 caged plots, 2 uncaged plots near shrub vegetation (UCNV), and 2 uncaged plots farther (at least 5 feet) from vegetation (UCFV). In each plot, a seed box of 20 Nipomo Mesa lupine seeds were placed and covered in sand.
 
 At each bait station a motion sensor camera was set up facing the seed box on January 24, 2022. Footage from each camera was collected and sorted through weekly or biweekly until May 17th, 2022. Each camera recorded videos in 20 second intervals, beginning at the moment of noticed activity. Data was collected on the varying species and their activities that were captured by the cameras. At the end of the study, seed bait stations were re-collected to see how many seeds remained and if there was any evidence of seed predation, via empty seed shells. Video footage was sorted, data was systematically entered, and then analyzed. 
 
-**Results**
+### **Results**
 
 **Seed Box Count Data:** Seed Box Data that was collected on January 24, 2022 (when the cameras were placed) was compared with the number of seeds still present on May 17th, 2022 (when the cameras were collected). "Full" seeds indicates seeds that are still fully intact and showed no signs of herbivory. "Half" seeds are cracked open seed shells that show evidence of some form of herbivory. "Hollow" seeds are shells that are still intact but have a hole with no seed present on the inside, perhaps an indication of insect herbivory. The data indicates that treatments with a higher number of seeds gone or showed signs of being eaten were more vulnerable to seed predation. The discussion section of this paper will present the limitations of these seed box count observations. However, using this data caged plots showed the highest signs of herbivory, and then uncaged near vegetation, and lastly uncaged far from vegetation (Figure 3). 
 
 \
-Figure 1: Summary of Seed Box Count Observations
+**Figure 1: Summary of Seed Box Count Observations**
 
 |                 |                      |                      |                            |                  |
 |---------------|---------------|---------------|---------------|---------------|
@@ -32,7 +34,7 @@ Figure 1: Summary of Seed Box Count Observations
 | **Uncaged  NV** | 40                   | 12                   | 28                         | 70%              |
 | **Uncaged FV**  | 40                   | 13                   | 27                         | 67.5%            |
 
-Figure 2: Breakdown of Seed Box Count Observations
+**Figure 2: Breakdown of Seed Box Count Observations**
 
 |              |               |                      |                           |
 |-----------------|-----------------|-----------------|---------------------|
@@ -46,18 +48,15 @@ Figure 2: Breakdown of Seed Box Count Observations
 | **7_B19_UU** | Uncaged FV    | 20 full              | 5 full, 1 half            |
 | **1_B14_SU** | Uncaged FV    | 20 full              | 8 full, 7 half, 1 hollow  |
 
-\
-Figure 3: Seed Box Count Grap
+![](images/seedcountdata.png)
 
-\[! \[ \] (images/seedcountdata.png)\]
-
-**Herbivory data captured by motion sensor cameras:**
+[**Herbivory data captured by motion sensor cameras:**]{.underline}
 
 There was no observed herbivory activity from the bobcats, skunks, lizards, badger, and deer. Overall, there was evidence of deer mice, kangaroo rats, goldfinches, and California towhees foraging in the seed boxes. There was clear evidence of cottontails foraging on maturing lupine plants but not on seeds. Ant and insect activity is marked as "unclear" because it was too difficult to determine their activity from the camera footage. Only ants and insects that were spotted in the seed box or near marked lupine plants were recorded in data. 
 
 \
 
-Figure 4: Breakdown of Species Observed Sorted by Treatment
+**Figure 4: Breakdown of Species Observed Sorted by Treatment**
 
 |                            |                  |           |                     |           |                     |           |
 |-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -82,20 +81,19 @@ Figure 4: Breakdown of Species Observed Sorted by Treatment
 | **Total**                  | **210**          | **4,200** | **315**             | **5,200** | **382**             | **5,821** |
 
 \
-Figure 5: Herbivory Activity at Uncaged, Near Vegetation Plots
+**Figure 5: Herbivory Activity at Uncaged, Near Vegetation Plots**
 
-![](https://lh4.googleusercontent.com/IdEYBzqZsuyS04DnIClUXlPoUkGJSTeu3Kl1rNtug2mLX8GgHwMHySNzY_t-k3qT9W98t55CZZJlquuKGBySnPyi4OvLd3_aNpWj0iEWoaO0K5CxVZSgmwBZRNY5ClmkXaBsfw3BBPzMtN2ap_01fFA)
-
-\
-Figure 6: Herbivory Activity at Uncaged, Far From Vegetation Plots
-
-![](https://lh6.googleusercontent.com/imvXW_oa11embUJlmNlS2NVrG01qdFiiJnZQZkeANV7FeHnWBPbCNnr8w4SG6SamuoDSi8-uiSrxoPA4UpjFLn6JBmGSUtDt2n7vbXElLCXyafFlFI9ojwOXLEx7zb19HxlsOYsLl29FYHMdNc6iLt0)
+![](images/figure5.png){width="624"}
 
 \
-\
-Figure 7: Herbivory Activity in Caged Plots
+**Figure 6: Herbivory Activity at Uncaged, Far From Vegetation Plots**
 
-![](https://lh5.googleusercontent.com/HhTu8CebDMHvF9FuQXaqhp1NNdTBTlyp33idKSAjnN4YxV4Q4TlSUp4CajUt_PRbX0341NAyYANOuVlmGb785og68-fXMCENs6Y49qMBhACdzH0mVg-u-FeOjtfQaxDjvKBlNmrinK0hWxVdxCK7K2Y)
+![](images/figure6.png)
+
+\
+**Figure 7: Herbivory Activity in Caged Plots**
+
+![](images/figure7.png){width="607"}
 
 **Caged plots:** There was the most observed activity from ants and other insects, however whether they were foraging or not on the seeds was unclear. California towhees, deer mice, kangaroo rats, and White-crowned sparrows were still getting into the cages and showing foraging activity. Camera footage indicates that animals were able to get into cages but that the cages did prevent a heavy amount of herbivory activity compared to uncaged plots. The results from the seed count data contradict the video data, because there was the least amount of foraging activity captured in the footage from the caged plots. 
 
@@ -103,13 +101,11 @@ Figure 7: Herbivory Activity in Caged Plots
 
 **Uncaged far from vegetation plots:** The uncaged far from vegetation plots had very little foraging activity inside the seed bait boxes but a lot of activity outside the boxes. The only foraging inside the box came from a goldfinch. The foraging outside the boxes came primarily from cottontails and birds, such as the White-crowned sparrow, California thrasher, and California towhee. There was significantly less rodent activity compared to the uncaged near vegetation plots. There was more insect activity than the uncaged near vegetation plots, but still less than caged plots. Overall, uncaged far from vegetation had the highest amount of captured footage, but it was not directly associated with seed predation or herbivory on Nipomo mesa lupine (Figure 4). 
 
-**Discussion:**
+### **Discussion**
 
-```         
-While this study did enhance knowledge about seed predation and herbivory of the Nipomo Mesa lupine, further studies will be required to fully comprehend the impact it has on seed germination success. The overall methodology of using motion sensor cameras for monitoring caused several limitations for the research process. There were various technical difficulties that caused the capture rate percentage of the cameras to be extremely low, as shown: 
-```
+While this study did enhance knowledge about seed predation and herbivory of the Nipomo Mesa lupine, further studies will be required to fully comprehend the impact it has on seed germination success. The overall methodology of using motion sensor cameras for monitoring caused several limitations for the research process. There were various technical difficulties that caused the capture rate percentage of the cameras to be extremely low, as shown:
 
- Figure : Camera Footage Efficiency 
+**Figure 8: Camera Footage Efficiency** 
 
 |                |                            |                  |                    |
 |-----------------|---------------------|-----------------|-----------------|
@@ -122,34 +118,5 @@ While this study did enhance knowledge about seed predation and herbivory of the
 One technical difficulty included camera delays, where several footage shots showed animals leaving the boxes where foraging may have been present but could not be determined. Another was that the cameras would sometimes capture footage at intervals other than 20 seconds (10 seconds, 3, seconds, 1 second, etc.), which skewed the number of images. Additionally, there were a few times when the cameras did not work at all over the span they were placed. And lastly, SD cards filled up extremely quickly with wind footage so a lot of valuable footage of herbivory may have been missed. 
 
 All of these factors made data harder to compare and left a lot of unanswered questions. Therefore, further research should be conducted to better pinpoint what animals are having the biggest impact on seed germination, where these animals are located (ie. far from vegetation or not), and how to best prevent them from consuming the seeds and plants. Seed data should also be collected more frequently (a maximum of every few days) as wind may have had an impact on the seed data count. For example, it is unlikely that caged plots had the most herbivory based on the camera footage contradicting the seed count data (Figure 1). Additionally, when doing the seed count data material was visibly flying in and out of the boxes. Further studies may also look at the difference of native vs non-native vegetation and the impact of insect herbivory. For this study, all insect footage was too difficult to accurately determine if they were interacting with the seeds or not in the boxes. This is why insect activity is marked as unclear in the activity data. Field observation of insect herbivory may be beneficial as seeds that were hollowed out were found during the seed count. Lastly, sorting camera data was extremely time consuming for such a low capture rate. 
-
-\
-**Images:**
-
-**Image 1: California towhee foraging on seeds (Caged)**
-
-![](https://lh4.googleusercontent.com/3dA7jj2CDu5BPOWy4tEe_8DHzM59EEgiK2fuRDrWxDM0QKfxcBQw40s7Bd0LhtoQD7F9khX4A5H6KDkhe42sRJXyM85VJq7atGWBYPsGLRUqau3Gyp_o0AKi-FE4Zc8HrbkSqm7gjQeyfqT6SDDDt7w)
-
-**Image 2: Kangaroo Rat foraging on seeds (Uncaged NV)**
-
-![](https://lh5.googleusercontent.com/1QHDPc2STSxRVYNoQA_azzIq_Z91OZ8dsaQBSg3DM0VGIo3Vo9wyFJfdATo34d-5pKcgNwpkkWgcqzoLHweYHZuUB0WcskS27Cuqwgepwehdn60VXOr1hUZDaKi4CbbFvVVjCYTmMkYNbRXdmamuN2A)
-
-\
-**Image 3: Deer mouse foraging on seeds (Uncaged NV)**
-
-![](https://lh5.googleusercontent.com/nM9YjTmTtwWiCOvEUJ5yeagF8cpBUKyIpATYzjhXQFtVvwGmHA3qXoKsO8rKyZu8Zltgpb6DOlRpIhuID3QQpz6HkmwamcZY636zYlntV_z_bbMVT-lZCR_aDeNO2WcQ4tsZYIZB3UcI_wHWHqRPDIw)
-
-**Image 4: Cottontail foraging on lupine plant (Uncaged FV)**
-
-![](https://lh5.googleusercontent.com/gSule1QuIDYxSq2mEwD6XFYN7hpz98B40_EH_CmliAGGeXyEB3lGvBMxS-Ry1dZmeHK6MwDa0MuDm-bA5rlCVt1d_FHzwPJ4B7a4BCSjwHfxquRLs8xpaNwWHZkSCxbyua6cYwb0Y5Z-Odg5tfrIiUg)
-
-\
-\
-\
-\
-
-**Image 5: Goldfinch foraging on seeds (Uncaged FV)**
-
-![](https://lh5.googleusercontent.com/6eYVSHV7DNqjIgKows_nU78H5cUY-tkLkXslIh7dXuwTCnJsXQRnWF6MWUpf_phQHG67RVzGtLZI_Os0yLGWaJYmoYpQMDvjHujq_t3OVrfoJ5bUq1SLNHS9aMC1gQQ-Lb1VVaVr-pbFBFyv5ep3vZ8)
 
 \
